@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const DB = "mongodb+srv://sajay3159:Ajaysahani1234@cluster0.za38y2b.mongodb.net/My_blog"
+const DB = "mongodb+srv://sahaniajay884:2mG9qyExWnk0HRoV@cluster0.mtlqfjl.mongodb.net/My_blog?retryWrites=true&w=majority&appName=Cluster0"
 mongoose.connect(DB , {
   useNewUrlParser : true ,
 //    useCreateIndex : false, 
